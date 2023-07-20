@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+install_elixir_ls() {
+	git clone https://github.com/elixir-lsp/elixir-ls.git ~/.elixir-ls
+	cd ~/.elixir-ls
+	mix deps.get && mix compile && mix elixir_ls.release -o release
+}
+
+install_deno() {
+  # https://deno.land/manual@v1.35.0/getting_started/installation
+	curl -fsSL https://deno.land/x/install/install.sh | sh
+}
