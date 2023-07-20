@@ -1,0 +1,13 @@
+vim get current buffer file full path
+
+
+
+- get error, maybe autopairs conflicts with vimwiki table?
+
+| some table |                         |
+|            | <SNR>31_AutoPairsReturn |
+
+refs:
+
+https://learnvimscriptthehardway.stevelosh.com/chapters/40.html
+:echom expand('%')
