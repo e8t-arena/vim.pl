@@ -1,0 +1,50 @@
+{
+  "snippets.textmateSnippetsRoots": ["~/HQ/conf/vim/vimt/runtime/snippets/vscode"],
+  "coc.preferences.diagnostic.virtualText": true,
+  "coc.preferences.formatOnSaveFiletypes": [
+    /* "dart", */
+    "html",
+    "javascript",
+    "typescript",
+    "typescriptreact",
+    "json",
+    "javascriptreact",
+    "typescript.tsx",
+    "css",
+    "scss",
+    "elixir",
+    "markdown",
+    "dart",
+    "python"
+  ],
+  "css.enable": true,
+  "css.lint.unknownAtRules": "ignore",
+  "css.validate": false,
+  "elixir.pathToElixirLS": "~/.elixir-ls/release/language_server.sh",
+  "elixirLS.dialyzerEnabled": false,
+  "emmet.includeLanguages": {"javascript": "javascriptreact"},
+  "eslint.filetypes": [
+    "javascript",
+    "typescript",
+    "typescriptreact",
+    "javascriptreact",
+    "typescript.tsx"
+  ],
+  "html.autoClosingTags": true,
+  "html.format.enable": false,
+  "javascript.suggestionActions.enabled": false,
+  "javascript.autoClosingTags": true,
+  "less.validate": false,
+  "scss.validate": true,
+  "tailwindCSS.trace.server": "verbose",
+  "typescript.suggest.autoImports": true,
+  "typescript.suggestionActions.enabled": false,
+  "typescript.autoClosingTags": true,
+  "workspace.ignoredFiletypes": ["markdown", "log", "txt", "help", "asm"],
+  "prettier.cssEnable": [
+    "css",
+    "less",
+    "sass"
+],
+  "wxss.validate": false
+}
