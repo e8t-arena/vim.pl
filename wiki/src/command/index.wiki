@@ -1,0 +1,7 @@
+{{{python
+def main(s):
+    print("It works.")
+}}}
+
+| some table |                         |
+|            | <SNR>31_AutoPairsReturn |
