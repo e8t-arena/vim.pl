@@ -1,17 +1,19 @@
+## Intro
+
 A self-daily-use-mini configuration for Vim.
 
 using 
 
   vim-plug 
-	
-	python3
   
-## usage
+  python3
+  
+## Usage
 
-  git clone  https://github.com/e8t-arena/vim.pl myvim
+    git clone  https://github.com/e8t-arena/vim.pl myvim
 
-  cd myvim
+    cd myvim
 
-  ./setup.sh
+    ./setup.sh
 
-Have fun ~
+> Have fun ~ with ❤️
