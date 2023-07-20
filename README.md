@@ -1,4 +1,4 @@
-A daily use mini configuration for Vim.
+A self-daily-use-mini configuration for Vim.
 
 using 
 
