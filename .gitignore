@@ -1,7 +1,9 @@
 !coc/.gitkeep
 coc/*
 
-tmp
+!tmp/.gitkeep
+tmp/*
+
 plugged
 __pycache__
 wiki/html
