@@ -1,0 +1,23 @@
+== Keymap ==
+
+<Leader>ww :Open default wiki index file
+
+<Leader>ws :Select and open wiki index file
+
+<Enter> :Follow/Create wiki link
+
+<Backspace> :Go back to parent(previous) wiki link
+
+<Tab> :Find next wiki link
+
+<Shift-Tab> :Find previous wiki link
+
+:h vimwiki-mappings
+
+== Commands ==
+
+:Vimwiki2HTML
+
+:VimwikiAll2HTML
+
+https://vimwiki.github.io/
