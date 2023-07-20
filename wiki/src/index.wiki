@@ -1,0 +1,13 @@
+= Knowledge Base =
+
+for GNU/Unix Command, Vim, etc.
+
+* Tasks -- things to be done _today_!!!
+* Project Vimwiki -- good wiki.
+* Pad -- temporary stuff.
+
+[[./command/index|command]]
+
+[[./vim/index|vim]]
+
+[[fog|bug?]]
