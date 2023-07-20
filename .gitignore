@@ -3,3 +3,5 @@ coc/*
 
 tmp
 plugged
+__pycache__
+wiki/html
