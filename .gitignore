@@ -1,8 +1,8 @@
-!coc/.gitkeep
 coc/*
+!coc/.gitkeep
 
-!tmp/.gitkeep
 tmp/*
+!tmp/.gitkeep
 
 plugged
 __pycache__

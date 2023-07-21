@@ -15,7 +15,9 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'jonathanfilip/vim-lucius'
 Plug 'kien/rainbow_parentheses.vim'
 Plug 'mhartington/oceanic-next'
-Plug 'neoclide/coc.nvim'
+Plug 'neoclide/coc.nvim', {'branch':'release'}
+" Plug 'neoclide/coc.nvim', {'branch':'master', 'do', 'yarn install --fronzen-lockfile'}
+
 Plug 'sheerun/vim-polyglot'
 Plug 'tmhedberg/SimpylFold'
 Plug 'tpope/vim-commentary'
